@@ -35,7 +35,7 @@ function BookCard({ book }) {
                            : description
                         : "Keine Beschreibung verfügbar"}
                   </Card.Text>
-                  <span className="text-primary">Details anzeigen</span>
+                  <span className="text-primary">Details anzeigen x</span>
                </Card.Body>
             </div>
          </Link>
